@@ -1,0 +1,1 @@
+[01-Feb-2019 10:02:46 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in /home/atikuperasi/public_html/kopwantera/application/libraries/tcpdf/include/tcpdf_static.php on line 1837
